@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/B41R461]
+- 👨‍💻 All of my projects are available at  [https://github.com/B41R461](https://github.com/B41R461)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
@@ -29,6 +29,7 @@
 <a href="https://linkedin.com/in/milanpaudell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanpaudell" height="30" width="40" /></a>
 <a href="https://fb.com/milanpaudell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milanpaudell" height="30" width="40" /></a>
 <a href="https://instagram.com/_augustsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_augustsix" height="30" width="40" /></a>
+<a href="https://discord.gg/j7wkKb9Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j7wkKb9Y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
