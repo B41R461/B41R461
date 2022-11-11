@@ -1,7 +1,7 @@
 <!--
 **milanpaudell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71B51&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Milan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World+!!!;Hi+%F0%9F%91%8B%2C+I'm+Milan)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <!--<h3 align="center">From Nepal</h3>-->
