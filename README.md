@@ -6,6 +6,13 @@
 <h1 align="center">Hi 👋, I'm B41R461</h1>
 <!--<h3 align="center">From Nepal</h3>-->
 
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/j7wkKb9Y" alt="Discord" title="Milan's Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b41r461&label=Profile%20views&color=0e75b6&style=flat" alt="b41r461" /> </p><a href="https://github.com/B41R461" target="blank"><img align="center" src="https://img.shields.io/github/followers/b41r461?style=social&" alt="b41r461"" alt="b41r461"/></a>
 
 - 🌱 I’m currently learning **MERN Stack**
