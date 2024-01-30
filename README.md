@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanpaudell&label=Profile%20views&color=0e75b6&style=flat" alt="milanpaudell" /> </p><a href="https://github.com/B41R461" target="blank"><img align="center" src="https://img.shields.io/github/followers/b41r461?style=social&" alt="b41r461"" alt="b41r461"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanpaudell&label=Profile%20views&color=0e75b6&style=flat" alt="milanpaudell" /> </p><a href="https://github.com/milanpaudell" target="blank"><img align="center" src="https://img.shields.io/github/followers/milanpaudell?style=social&" alt="milanpaudell"" alt="milanpaudell"/></a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
